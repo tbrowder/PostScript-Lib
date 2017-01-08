@@ -9,6 +9,6 @@ for interested parties.
 
 ## LICENSE
 
-Artistic 2.0. See [LICENSE](./LICENSE).
+Artistic 2.0. See *LICENSE*.
 
 Copyright (C) 2017 Thomas M. Browder, Jr. <tom.browder@gmail.com>
