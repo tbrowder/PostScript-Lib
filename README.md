@@ -9,6 +9,6 @@ for interested parties.
 
 ## LICENSE
 
-Artistic 2.0. See [LICENSE](https://pages.github.com/tbrowder/PostScript-Lib-Perl6/LICENSE).
+Artistic 2.0. See [LICENSE](https://github.com/tbrowder/PostScript-Lib-Perl6/LICENSE).
 
 Copyright (C) 2017 Thomas M. Browder, Jr. <tom.browder@gmail.com>
