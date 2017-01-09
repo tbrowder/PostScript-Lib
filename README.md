@@ -11,4 +11,4 @@ for interested parties.
 
 Artistic 2.0. See [LICENSE](https://github.com/tbrowder/PostScript-Lib-Perl6/blob/master/LICENCE).
 
-Copyright (C) 2017 Thomas M. Browder, Jr. <tom.browder@gmail.com>
+Copyright (C) 2017 Thomas M. Browder, Jr. <<tom.browder@gmail.com>>
