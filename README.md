@@ -1,7 +1,7 @@
 # PostScript::Lib
 
 This repository is intended to be a collection of PostScript (PS)
-functions and classes to aid in writing PS programs.
+functions and classes to aid in writing PS and Encapsulated PS (EPS) programs.
 
 Collaboration is welcomed, and git access to the project will be given
 for interested parties.
