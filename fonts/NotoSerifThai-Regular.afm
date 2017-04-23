@@ -1,0 +1,122 @@
+StartFontMetrics 2.0
+Comment Converted at Sat Jan 14 13:22:49 2017 by ttf2afm from font file `NotoSerifThai-Regular.ttf'
+Weight Normal
+ItalicAngle 0
+IsFixedPitch false
+FontBBox -686 -255 901 1116
+UnderlinePosition -75
+UnderlineThickness 49
+EncodingScheme FontSpecific
+Ascender 1116
+Descender -255
+StartCharMetrics 108
+C -1 ; WX 500 ; N .notdef ; B 49 0 450 713 ;
+C -1 ; WX 0 ; N null ; B 64 0 517 560 ;
+C -1 ; WX 509 ; N CR ; B 64 0 517 560 ;
+C -1 ; WX 259 ; N space ; B 64 0 517 560 ;
+C -1 ; WX 597 ; N uni0E01 ; B 64 0 517 560 ;
+C -1 ; WX 630 ; N uni0E02 ; B 28 0 550 560 ;
+C -1 ; WX 630 ; N uni0E03 ; B 28 0 550 557 ;
+C -1 ; WX 624 ; N uni0E04 ; B 55 0 543 560 ;
+C -1 ; WX 624 ; N uni0E05 ; B 55 0 543 558 ;
+C -1 ; WX 630 ; N uni0E06 ; B 28 -8 550 557 ;
+C -1 ; WX 473 ; N uni0E07 ; B 23 -9 393 555 ;
+C -1 ; WX 580 ; N uni0E08 ; B 45 -9 500 560 ;
+C -1 ; WX 645 ; N uni0E09 ; B 41 -8 625 560 ;
+C -1 ; WX 630 ; N uni0E0A ; B 28 0 657 588 ;
+C -1 ; WX 660 ; N uni0E0B ; B 28 0 657 588 ;
+C -1 ; WX 839 ; N uni0E0C ; B 64 -8 759 560 ;
+C -1 ; WX 831 ; N uni0E0D ; B 64 -231 785 560 ;
+C -1 ; WX 831 ; N uni0E0D.alt1 ; B 64 -8 750 560 ;
+C -1 ; WX 642 ; N uni0E0E ; B 21 -253 575 560 ;
+C -1 ; WX 642 ; N uni0E0F ; B 21 -253 575 560 ;
+C -1 ; WX 562 ; N uni0E10 ; B 41 -253 534 569 ;
+C -1 ; WX 562 ; N uni0E10.alt1 ; B 59 -9 534 569 ;
+C -1 ; WX 736 ; N uni0E11 ; B 28 0 657 560 ;
+C -1 ; WX 857 ; N uni0E12 ; B 55 -8 777 558 ;
+C -1 ; WX 931 ; N uni0E13 ; B 64 -8 901 560 ;
+C -1 ; WX 624 ; N uni0E14 ; B 55 0 543 560 ;
+C -1 ; WX 624 ; N uni0E15 ; B 55 0 543 558 ;
+C -1 ; WX 597 ; N uni0E16 ; B 64 -8 517 560 ;
+C -1 ; WX 641 ; N uni0E17 ; B 21 0 561 560 ;
+C -1 ; WX 567 ; N uni0E18 ; B 67 0 519 569 ;
+C -1 ; WX 634 ; N uni0E19 ; B 21 -8 605 555 ;
+C -1 ; WX 615 ; N uni0E1A ; B 21 0 535 555 ;
+C -1 ; WX 615 ; N uni0E1B ; B 21 0 535 825 ;
+C -1 ; WX 645 ; N uni0E1C ; B 89 0 565 555 ;
+C -1 ; WX 645 ; N uni0E1D ; B 89 0 565 825 ;
+C -1 ; WX 695 ; N uni0E1E ; B 21 0 616 555 ;
+C -1 ; WX 695 ; N uni0E1F ; B 21 0 616 825 ;
+C -1 ; WX 642 ; N uni0E20 ; B 21 -8 575 560 ;
+C -1 ; WX 588 ; N uni0E21 ; B 41 -8 508 555 ;
+C -1 ; WX 554 ; N uni0E22 ; B 64 0 474 555 ;
+C -1 ; WX 504 ; N uni0E23 ; B 34 -8 483 569 ;
+C -1 ; WX 597 ; N uni0E24 ; B 64 -253 517 560 ;
+C -1 ; WX 591 ; N uni0E25 ; B 58 -8 512 560 ;
+C -1 ; WX 654 ; N uni0E26 ; B 21 -253 575 560 ;
+C -1 ; WX 481 ; N uni0E27 ; B -1 -8 401 560 ;
+C -1 ; WX 624 ; N uni0E28 ; B 55 0 628 588 ;
+C -1 ; WX 615 ; N uni0E29 ; B 21 0 663 555 ;
+C -1 ; WX 591 ; N uni0E2A ; B 58 -8 597 588 ;
+C -1 ; WX 640 ; N uni0E2B ; B 21 0 560 555 ;
+C -1 ; WX 695 ; N uni0E2C ; B 21 0 770 714 ;
+C -1 ; WX 598 ; N uni0E2D ; B 63 0 518 559 ;
+C -1 ; WX 598 ; N uni0E2E ; B 78 0 577 588 ;
+C -1 ; WX 535 ; N uni0E2F ; B 21 0 455 549 ;
+C -1 ; WX 488 ; N uni0E30 ; B 39 59 455 511 ;
+C -1 ; WX 0 ; N uni0E31 ; B -317 597 53 791 ;
+C -1 ; WX 481 ; N uni0E32 ; B -1 0 401 560 ;
+C -1 ; WX 481 ; N uni0E33 ; B -225 0 401 769 ;
+C -1 ; WX 0 ; N uni0E34 ; B -513 588 -89 791 ;
+C -1 ; WX 0 ; N uni0E35 ; B -513 588 -89 826 ;
+C -1 ; WX 0 ; N uni0E36 ; B -513 588 -41 818 ;
+C -1 ; WX 0 ; N uni0E37 ; B -513 588 -89 826 ;
+C -1 ; WX 0 ; N uni0E38 ; B -215 -253 -87 -49 ;
+C -1 ; WX 0 ; N uni0E39 ; B -365 -255 -87 -49 ;
+C -1 ; WX 0 ; N uni0E3A ; B -183 -160 -81 -57 ;
+C -1 ; WX 559 ; N uni0E3F ; B 7 -79 524 759 ;
+C -1 ; WX 307 ; N uni0E40 ; B 89 -8 289 549 ;
+C -1 ; WX 568 ; N uni0E41 ; B 89 -8 551 549 ;
+C -1 ; WX 424 ; N uni0E42 ; B 0 -8 439 998 ;
+C -1 ; WX 422 ; N uni0E43 ; B 0 -8 404 1007 ;
+C -1 ; WX 486 ; N uni0E44 ; B -14 -8 469 1007 ;
+C -1 ; WX 481 ; N uni0E45 ; B -1 -253 401 560 ;
+C -1 ; WX 495 ; N uni0E46 ; B 28 -253 415 557 ;
+C -1 ; WX 0 ; N uni0E47 ; B -419 596 -45 854 ;
+C -1 ; WX 0 ; N uni0E48 ; B -172 596 -78 772 ;
+C -1 ; WX 0 ; N uni0E49 ; B -357 596 -30 811 ;
+C -1 ; WX 0 ; N uni0E4A ; B -434 596 -21 811 ;
+C -1 ; WX 0 ; N uni0E4B ; B -224 596 -26 800 ;
+C -1 ; WX 0 ; N uni0E4C ; B -407 597 -8 852 ;
+C -1 ; WX 0 ; N uni0E4D ; B -225 601 -44 769 ;
+C -1 ; WX 0 ; N uni0E4E ; B -242 597 -41 829 ;
+C -1 ; WX 644 ; N uni0E4F ; B 37 -9 606 561 ;
+C -1 ; WX 664 ; N uni0E50 ; B 63 -9 600 454 ;
+C -1 ; WX 664 ; N uni0E51 ; B 63 -8 600 454 ;
+C -1 ; WX 664 ; N uni0E52 ; B 43 0 591 633 ;
+C -1 ; WX 664 ; N uni0E53 ; B 62 -9 602 454 ;
+C -1 ; WX 664 ; N uni0E54 ; B 62 -11 624 640 ;
+C -1 ; WX 664 ; N uni0E55 ; B 62 -11 624 640 ;
+C -1 ; WX 664 ; N uni0E56 ; B 48 -9 575 603 ;
+C -1 ; WX 664 ; N uni0E57 ; B 37 -9 651 633 ;
+C -1 ; WX 664 ; N uni0E58 ; B 62 -4 615 640 ;
+C -1 ; WX 664 ; N uni0E59 ; B 62 -9 628 588 ;
+C -1 ; WX 716 ; N uni0E5A ; B 21 0 626 549 ;
+C -1 ; WX 916 ; N uni0E5B ; B 42 -6 883 438 ;
+C -1 ; WX 0 ; N uni0E48.small ; B -172 867 -78 1043 ;
+C -1 ; WX 0 ; N uni0E49.small ; B -342 867 -16 1082 ;
+C -1 ; WX 0 ; N uni0E4A.small ; B -432 867 -20 1082 ;
+C -1 ; WX 0 ; N uni0E4B.small ; B -223 867 -45 1042 ;
+C -1 ; WX 0 ; N uni0E4C.small ; B -395 860 1 1116 ;
+C -1 ; WX 0 ; N uni200B ; B 49 43 544 538 ;
+C -1 ; WX 594 ; N uni25CC ; B 49 43 544 538 ;
+C -1 ; WX 0 ; N uniFEFF ; B -26 -165 26 787 ;
+C -1 ; WX 0 ; N uni200C ; B -26 -165 26 787 ;
+C -1 ; WX 0 ; N uni200D ; B -145 -165 145 787 ;
+C -1 ; WX 250 ; N uni02BC ; B 29 431 193 713 ;
+C -1 ; WX 256 ; N uni02D7 ; B 12 253 244 306 ;
+C -1 ; WX 0 ; N uni0303 ; B -480 605 -125 728 ;
+C -1 ; WX 0 ; N uni0331 ; B -467 -133 -120 -79 ;
+C -1 ; WX 0 ; N uni0331.alt ; B -686 -133 -120 -79 ;
+EndCharMetrics
+EndFontMetrics

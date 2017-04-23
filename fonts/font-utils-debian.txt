@@ -1,0 +1,172 @@
+ttf2afm (1)          - utility to generate AFM files for TrueType fonts
+ttfdump (1)          - Dumping the contents of a TrueType Font file
+
+ttf2pk (1)           - convert a TrueType font into TeX's PK format
+ttf2tfm (1)          - build TeX metric files from a TrueType font
+
+Spreadsheet::ParseExcel::Font (3pm) - A class for Cell fonts.
+Tk::Font (3pm)       - Create and inspect fonts.
+Tk::X11Font (3pm)    - a class for finding X Fonts
+afm2pl (1)           - convert AFM font metrics to TeX pl font metrics
+afm2tfm (1)          - convert Adobe font metrics to TeX font metrics
+allcm (1)            - force the most important Computer-Modern-fonts to be calculated
+allec (1)            - force the most important ec-fonts to be calculated
+allneeded (1)        - force the calculation of all fonts now needed
+autoinst (1)         - wrapper around the LCDF TypeTools, for installing OpenType fonts in LaTeX.
+bdftopcf (1)         - convert X font from Bitmap Distribution Format to Portable Compiled Format
+bdftruncate (1)      - generate truncated BDF font from ISO 10646-1-encoded BDF font
+composeglyphs (1)    - generate an encoding vector or new font for postscript
+dh_installtex (1)    - register Type 1 fonts, hyphenation patterns, or formats with TeX
+dh_installxfonts (1) - register X fonts
+fc-cache (1)         - build font information cache files
+fc-cat (1)           - read font information cache files
+fc-list (1)          - list available fonts
+fc-match (1)         - match available fonts
+fc-query (1)         - query font files
+fc-scan (1)          - scan font files or directories
+fc-validate (1)      - validate font files
+FcCacheCopySet (3)   - Returns a copy of the fontset from cache
+FcCacheNumFont (3)   - Returns the number of fonts in cache.
+FcConfigAppFontAddDir (3) - Add fonts from directory to font database
+FcConfigAppFontAddFile (3) - Add font file to font database
+FcConfigAppFontClear (3) - Remove all app fonts from font database
+FcConfigBuildFonts (3) - Build font database
+FcConfigGetFontDirs (3) - Get font directories
+FcConfigGetFonts (3) - Get config font set
+FcDirScan (3)        - scan a font directory without caching it
+FcFileScan (3)       - scan a font file
+FcFini (3)           - finalize fontconfig library
+FcFontList (3)       - List fonts
+FcFontMatch (3)      - Return best font
+FcFontRenderPrepare (3) - Prepare pattern for loading font file
+FcFontSetAdd (3)     - Add to a font set
+FcFontSetCreate (3)  - Create a font set
+FcFontSetDestroy (3) - Destroy a font set
+FcFontSetList (3)    - List fonts from a set of font sets
+FcFontSetMatch (3)   - Return the best font from a set of font sets
+FcFontSetPrint (3)   - Print a set of patterns to stdout
+FcFontSetSort (3)    - Add to a font set
+FcFontSetSortDestroy (3) - DEPRECATED destroy a font set
+FcFontSort (3)       - Return list of matching fonts
+FcFreeTypeQuery (3)  - compute pattern from font file (and index)
+FcInit (3)           - initialize fontconfig library
+FcInitLoadConfigAndFonts (3) - load configuration and font data
+font-manager (1)     - font management application for the GNOME desktop
+font-sampler (1)     - font management application for the GNOME desktop
+font2c (1)           - Write PostScript Type 0 or Type 1 font as C code
+Font::AFM (3pm)      - Interface to Adobe Font Metrics files
+fontinst (1)         - utility to run TeX as fontinst
+fonts-conf (5)       - Font configuration files
+fonttosfnt (1)       - Wrap a bitmap font in a sfnt (TrueType) wrapper
+getafm (1)           - create an AFM file for a PostScript font.
+gftodvi (1)          - make proof sheets from generic font files
+gftopk (1)           - convert generic font files to packed font files
+gftype (1)           - translate a generic font file for humans to read
+grub-mkfont (1)      - make GRUB font files
+gsftopk (1)          - render a ghostscript font in TeX pk form
+Image::ExifTool::Font (3pm) - Read meta information from font files
+loadunimap (8)       - load the kernel unicode-to-font mapping table
+mag (1)              - computes fontsizes and magsteps
+mate-font-viewer (1) - preview fonts
+mate-thumbnail-font (1) - configure MATE network proxy
+mf (1)               - Metafont, a language for font and logo design
+mf-nowin (1)         - Metafont, a language for font and logo design
+mft (1)              - translate Metafont or MetaPost code to TeX code for prettyprinting
+mkfontdir (1)        - create an index of X font files in a directory
+mkfontscale (1)      - create an index of scalable font files for X
+mktexmf (1)          - create a Metafont source file
+mktexpk (1)          - create a PK file for a font
+mktextfm (1)         - create a TFM file for a font
+ofm2opl (1)          - convert Omega and TeX font-metric files to property-list files
+omfonts (1)          - the driver program behind ofm2opl, opl2ofm, ovf2ovp, and ovp2ovf.
+opl2ofm (1)          - convert Omega and TeX property-list files to font-metric files
+ot2kpx (1)           - extract kerning information from OpenType fonts
+ovf2ovp (1)          - convert a virtual font file and its associated font metric file into property-list format
+ovp2ovf (1)          - convert a virtual property-list file into a virtual font file and its associated font metric file
+Pango::AttrFontDesc (3pm) - Pango description of a font
+Pango::AttrScale (3pm) - Pango font size scale attribute
+Pango::AttrSize (3pm) - Pango font-size attribute
+Pango::AttrStretch (3pm) - Pango font stretch attribute
+Pango::AttrStyle (3pm) - Pango font slant style attribute
+Pango::AttrVariant (3pm) - Pango font variant attribute
+Pango::AttrWeight (3pm) - Pango font weight attribute
+Pango::Cairo::Font (3pm) - Pango using cairo fonts for rendering
+Pango::Cairo::FontMap (3pm) - Pango font maps with Cairo
+Pango::Font (3pm)    - a rendering-system independent font representation
+Pango::FontDescription (3pm) - Pango object to represent a description of a font
+Pango::FontFace (3pm) - object for Pango representing a group of fonts varying only in size
+Pango::FontFamily (3pm) - Pango object representing a family of related font faces
+Pango::FontMap (3pm) - an object that represents the set of fonts available for a particular rendering system
+Pango::FontMetrics (3pm) - object for Pango containing overall metric information for a font
+Pango::Fontset (3pm) - object containing a set of Pango::Font objects
+pdffonts (1)         - Portable Document Format (PDF) font analyzer (version 3.03)
+pf2afm (1)           - Make an AFM file from Postscript (PFB/PFA/PFM) font files using ghostscript
+pfbtopfa (1)         - Convert Postscript .pfb fonts to .pfa format using ghostscript
+pk2bm (1)            - create a bitmap from a TeX pkfont
+pktogf (1)           - convert packed font files to generic font files
+pktype (1)           - verify and translate a packed font bitmap file to plain text
+pltotf (1)           - convert property list files to TeX font metric (tfm) format
+printafm (1)         - Print the metrics from a Postscript font in AFM format using ghostscript
+ps2pk (1)            - creates a TeX pkfont from a type1 PostScript font
+psfaddtable (1)      - add a Unicode character table to a console font
+psfgettable (1)      - extract the embedded Unicode character table from a console font
+psfstriptable (1)    - remove the embedded Unicode character table from a console font
+psfxtable (1)        - handle Unicode character tables for console fonts
+pslatex (1)          - utility to typeset LaTeX files using PostScript fonts
+setfont (8)          - load EGA/VGA console screen font
+setupcon (1)         - sets up the font and the keyboard on the console
+showconsolefont (8)  - Show the current EGA/VGA console screen font
+splitfont (1)        - extract characters from an ISO-type font.
+text2gif (1)         - A program to generate GIF images out of regular text. Text can be one line or multi-line, and is conv...
+tftopl (1)           - convert TeX font metric (tfm) files to property lists
+ucs2any (1)          - generate BDF fonts containing subsets of ISO 10646-1 codepoints
+update-fonts-alias (8) - compile fonts.alias files
+update-fonts-dir (8) - compile fonts.dir files
+update-fonts-scale (8) - generate fonts.scale files
+updmap (1)           - manage TeX font maps, per-user
+updmap-sys (1)       - manage TeX font maps, system-wide
+updmap.cfg (5)       - configuration of font mapping/inclusion for dvips and friends.
+vftovp (1)           - convert virtual font (vf) files to virtual property lists (vpl)
+vptovf (1)           - convert virtual property lists to virtual font metrics
+wftopfa (1)          - Convert a Wadalab base font to Postscript .PFA (or .PFB) format using ghostscript
+XBaseFontNameListOfFontSet (3) - obtain fontset information
+XChar2b (3)          - load or unload fonts and font metric structures
+XCharStruct (3)      - load or unload fonts and font metric structures
+XContextDependentDrawing (3) - obtain fontset information
+XContextualDrawing (3) - obtain fontset information
+XCreateFontCursor (3) - create cursors
+XCreateFontSet (3)   - create and free an international text drawing font set
+XDirectionalDependentDrawing (3) - obtain fontset information
+XExtentsOfFontSet (3) - obtain the maximum extents structure for a font set
+xfd (1)              - display all the characters in an X font
+XFontProp (3)        - load or unload fonts and font metric structures
+xfontsel (1)         - point and click selection of X11 font names
+XFontSetExtents (3)  - XFontSetExtents structure
+XFontsOfFontSet (3)  - obtain fontset information
+XFontStruct (3)      - load or unload fonts and font metric structures
+XFreeFont (3)        - load or unload fonts and font metric structures
+XFreeFontInfo (3)    - obtain or free font names and information
+XFreeFontNames (3)   - obtain or free font names and information
+XFreeFontPath (3)    - set, get, or free the font search path
+XFreeFontSet (3)     - create and free an international text drawing font set
+XGetFontPath (3)     - set, get, or free the font search path
+XGetFontProperty (3) - load or unload fonts and font metric structures
+XListFonts (3)       - obtain or free font names and information
+XListFontsWithInfo (3) - obtain or free font names and information
+XLoadFont (3)        - load or unload fonts and font metric structures
+XLoadQueryFont (3)   - load or unload fonts and font metric structures
+XLocaleOfFontSet (3) - obtain fontset information
+xlsfonts (1)         - server font list displayer for X
+XmbDrawImageString (3) - draw image text using a single font set
+XmbDrawString (3)    - draw text using a single font set
+XmbDrawText (3)      - draw text using multiple font sets
+XQueryFont (3)       - load or unload fonts and font metric structures
+XSetFont (3)         - GC convenience routines
+XSetFontPath (3)     - set, get, or free the font search path
+XUnloadFont (3)      - load or unload fonts and font metric structures
+Xutf8DrawImageString (3) - draw image text using a single font set
+Xutf8DrawString (3)  - draw text using a single font set
+Xutf8DrawText (3)    - draw text using multiple font sets
+XwcDrawImageString (3) - draw image text using a single font set
+XwcDrawString (3)    - draw text using a single font set
+XwcDrawText (3)      - draw text using multiple font sets
