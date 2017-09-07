@@ -1,11 +1,10 @@
-# PostScript::Lib
+# PostScript::Lib [![Build Status](https://travis-ci.org/tbrowder/PostScript-Lib-Perl6.svg?branch=master)](https://travis-ci.org/tbrowder/PostScript-Lib-Perl6)
 
 This repository is intended to be a collection of PostScript (PS)
 functions and classes to aid in writing PS and Encapsulated PS (EPS) programs.
 
 Collaboration is welcomed, and git access to the project will be given
 for interested parties.
-
 
 ## LICENSE
 
