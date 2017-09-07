@@ -17,7 +17,9 @@
 	"Test::META"
     ],
     "depends" : [
-        "Font::AFM"
+        "Font::AFM",
+        "Text::More",
+        "Proc::More"
     ],
     "resources" : [
     ],
