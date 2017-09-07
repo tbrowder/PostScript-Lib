@@ -1,0 +1,27 @@
+{
+    "perl"        : "6.c",
+    "name"        : "PostScript::Lib",
+    "version"     : "0.1.0",
+    "description" : "Provides PostScript functions and a text-to-pdf program.",
+    "authors"     : [ "github:tbrowder" ],
+    "license"     : "Artistic-2.0",
+    "source-url"  : "https://github.com/tbrowder/PostScript-Lib-Perl6.git",
+    "support"     : {
+        "bugtracker" : "https://github.com/tbrowder/PostScript-Lib-Perl6/issues"
+    },
+    "provides"    : {
+        "PostScipt::Lib"       : "lib/PostScript/Lib.pm6",
+        "PostScipt::Lib::Test" : "lib/PostScript/Lib/Test.pm6"
+    },
+    "test-depends"     : [
+	"Test::META"
+    ],
+    "depends" : [
+        "Font::AFM"
+    ],
+    "resources" : [
+    ],
+    "tags" : [
+	"PostScript"
+    ]
+}
