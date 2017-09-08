@@ -10,8 +10,8 @@
         "bugtracker" : "https://github.com/tbrowder/PostScript-Lib-Perl6/issues"
     },
     "provides"    : {
-        "PostScipt::Lib"       : "lib/PostScript/Lib.pm6",
-        "PostScipt::Lib::Test" : "lib/PostScript/Lib/Test.pm6"
+        "PostScript::Lib"       : "lib/PostScript/Lib.pm6",
+        "PostScript::Lib::Test" : "lib/PostScript/Lib/Test.pm6"
     },
     "test-depends"     : [
 	"Test::META"
