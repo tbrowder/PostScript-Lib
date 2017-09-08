@@ -8,7 +8,7 @@ for interested parties.
 
 # SYSTEM REQUIREMENTS
 
-+ ghostscript
++ Ghostscript
 
 ## LICENSE
 
