@@ -1,4 +1,3 @@
-# version for 'time'
 sudo: true
 language: perl6
 perl6:
