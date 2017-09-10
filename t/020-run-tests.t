@@ -6,6 +6,9 @@ plan 2;
 if not %*ENV<METRICS>:exists {
     %*ENV<METRICS> = '/usr/share/sdop/fontmetrics'; # from Debian package sdop
 }
+else {
+    %*ENV<METRICS> ~= ':/usr/share/sdop/fontmetrics'; # from Debian package sdop
+}
 
 my $prog = './bin/txt2pdf';
 
