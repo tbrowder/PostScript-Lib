@@ -319,7 +319,7 @@ sub help() {
     tscript, version $version; converts an ASCII text file to PostScript
       and then pdf.
 
-      Defaults are: $default-font-size point Courier font; portrait; {$default-margins}-inch margins;
+      Defaults are: $default-font-size point $default-font-name font; portrait; {$default-margins}-inch margins;
         and a header line with file information, date, and page number.
 
       Lines are wrapped if they exceed the allowable line length and
