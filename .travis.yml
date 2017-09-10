@@ -1,4 +1,4 @@
-sudo: true
+sudo: enabled
 language: perl6
 perl6:
     - latest
@@ -7,7 +7,7 @@ before_install:
     - sudo apt-get -qq update
     - sudo apt-get install -y ghostscript
     # need PostScript AFM files
-    sudo apt-get install -y sdop
+    - sudo apt-get install -y sdop
 
 install:
     - rakudobrew build-zef
