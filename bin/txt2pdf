@@ -4,6 +4,8 @@
 # any reference to the internals of the original program.
 
 use Font::AFM; # Perl 6 version
+use Font::Metrics::courier; # Perl 6 version
+
 use Text::More :ALL;
 
 use PostScript::Lib::TVars;
