@@ -2,13 +2,16 @@
 
 This repository is intended to be a collection of PostScript (PS)
 functions and classes to aid in writing PS and Encapsulated PS (EPS) programs.
+It includes a rudimentary text-to-pdf conversion program called *txt2pdf* (patterned on the
+program *enscript*).
 
-Collaboration is welcomed, and git access to the project will be given
-for interested parties.
+Collaboration is welcomed, and git access to the project may be given
+to interested parties who establish a good pull request record.
 
 # SYSTEM REQUIREMENTS
 
 + Ghostscript
++ Ghostscript fonts
 
 ## LICENSE
 
