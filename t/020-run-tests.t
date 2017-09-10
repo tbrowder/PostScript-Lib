@@ -3,8 +3,7 @@ use Test;
 
 plan 2;
 
-#my $prog = '../bin/txt2pdf';
-my $prog = './txt2pdf';
+my $prog = './bin/txt2pdf';
 
 lives-ok { $prog };
 
@@ -16,7 +15,7 @@ my $cmd = "$prog $args $ifil";
 lives-ok { run $cmd.words };
 
 # cleanup
-my $ifil-a = './t/data/ca-passwords.ps';
-my $ifil-b = './t/data/ca-passwords.pdf';
+my $ifil-a = './t/data/ca-passwords.txt.ps';
+my $ifil-b = './t/data/ca-passwords.txt.pdf';
 unlink $ifil-a if $ifil-a.IO.f; 
 unlink $ifil-b if $ifil-b.IO.f; 

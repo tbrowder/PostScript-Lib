@@ -6,9 +6,8 @@
 use Font::AFM; # Perl 6 version
 use Text::More :ALL;
 
-use lib <.>;
-use TVars;
-use TClasses;
+use PostScript::Lib::TVars;
+use PostScript::Lib::TClasses;
 
 # GLOBAL VARS (others in module TVars)
 my $tmpbuf; # a variable length string, need to treat as an array of chars
