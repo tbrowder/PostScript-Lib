@@ -10,8 +10,8 @@ to interested parties who establish a good pull request record.
 
 # SYSTEM REQUIREMENTS
 
-+ Ghostscript
-+ Ghostscript fonts
++ Ghostscript (Debian package ghostscript)
++ AFM files for PostScript fonts (Debian package sdom)
 
 ## LICENSE
 
